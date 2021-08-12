@@ -19,12 +19,12 @@ It was developed and tested using:
 
 ## Usage
 
-Before running `main.py` it is important to set up the `config.json` file and create the template file.
+Before running `main.py` it is important to create the template file and set up the `config.json` file.
 
-### Setting up the `config.json` file
+### 1 - Creating the template file
 
-### Creating the template file
+### 2 - Setting up the `config.json` file
 
-### Running `main.py`
+### 3 - Running `main.py`
 
 ## Example
